@@ -8,7 +8,6 @@ setHook("rstudio.sessionInit", function(newSession) {
   apikey <- Sys.getenv('WEATHER_API_KEY')
   postal_code <- Sys.getenv('MY_POSTAL_CODE')
   ## weather API
-  # 40a5bdff38304d4885662200212012
   url <-
     glue("http://api.weatherapi.com/v1/current.json?key={apikey}&q={postal_code}&aqi=yes")
   response <- httr::GET(url)
@@ -18,7 +17,7 @@ setHook("rstudio.sessionInit", function(newSession) {
     emojifont::emoji(x)
   }
   
-  conditon_emoji <- function(c) {
+  condition_emoji <- function(c) {
     
     ## emojii
     w <- list(
@@ -111,7 +110,7 @@ setHook("rstudio.sessionInit", function(newSession) {
   # create weather strings with emoji
   current <- content$current
   temp <- glue("|{em('thermometer')} Temperature: {current$temp_c}˚C ({current$temp_f}˚F), fl: {current$feelslike_c}˚C")
-  condition <- conditon_emoji(c = current$condition$text)
+  condition <- condition_emoji(c = current$condition$text)
   
   precip_emoji <- ifelse(
     current$precip_mm > 0, 

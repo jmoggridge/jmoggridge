@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Big Chungus Dark</string>
+	<string>bigChungusDark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -20,11 +20,11 @@
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 				<key>invisibles</key>
-				<string>#2E2D27</string>
+				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#38372A</string>
+				<string>#3E3D32</string>
 				<key>selection</key>
-				<string>#403F2F</string>
+				<string>#615F47</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,9 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9E9D98</string>
-				<key>fontStyle</key>
-				<string>  italic </string>
+				<string>#75715E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -48,7 +46,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DAE32D</string>
+				<string>#D5FF00</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFAE52</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF7F08</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -81,9 +81,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
-				<key>fontStyle</key>
-				<string> underline</string>
+				<string>#D5FF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,8 +91,10 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#00E6A9</string>
+				<string>#42FF42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -105,9 +105,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7DC1FF</string>
-				<key>fontStyle</key>
-				<string> bold</string>
+				<string>#AE81FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,8 +115,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FFFAFC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -128,8 +128,10 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFB86C</string>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -142,7 +144,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#7DC1FF</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -168,7 +170,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7DC1FF</string>
+				<string>#C20EC2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -181,7 +183,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E0DBD5</string>
+				<string>#1FBDFC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,9 +194,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FF7300</string>
 			</dict>
 		</dict>
 		<dict>
@@ -205,7 +207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#A6E22E</string>
 			</dict>
@@ -217,8 +219,10 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#2FA7D6</string>
+				<string>#0AC2FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,7 +235,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A354F7</string>
+				<string>#0093B0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -242,9 +246,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic     </string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#FF7FD0</string>
+				<string>#EF36F5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -254,10 +258,8 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#7DC1FF</string>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -270,9 +272,9 @@
 				<key>background</key>
 				<string>#F92672</string>
 				<key>fontStyle</key>
-				<string>  bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#D8E4F0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -286,8 +288,6 @@
 				<string>#AE81FF</string>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 	</array>
@@ -296,9 +296,9 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.big_chungus</string>
+	<string>theme.dark.big_chungus_dark</string>
 	<key>author</key>
-	<string>J Moggridge</string>
+	<string>JMoggridge</string>
 	<key>comment</key>
 	<string>Huge</string>
 </dict>
