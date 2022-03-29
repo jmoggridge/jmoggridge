@@ -2,12 +2,12 @@
 setHook("rstudio.sessionInit", function(newSession) {
   # any code included here will be run at the start of each RStudio session
   glue <- glue::glue
-  # cat("\014") or cat('\f') will automatically clear the console and therefor the R startup message
+  # cat("\014") or cat('\f') will clear the console and get rid of the default R startup message
   cat("\014")
   
+   # weather API request
   apikey <- Sys.getenv('WEATHER_API_KEY')
   postal_code <- Sys.getenv('MY_POSTAL_CODE')
-  ## weather API
   url <-
     glue("http://api.weatherapi.com/v1/current.json?key={apikey}&q={postal_code}&aqi=yes")
   response <- httr::GET(url)
