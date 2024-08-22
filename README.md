@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some websites that I made for you
+
+- [Get random dog pictures](https://jmoggridge.github.io/frontendmasters/intro-to-web/dog/)
+- [You don't know JS](https://jmoggridge.github.io/frontendmasters/tree/main/js-first-steps-to-pro/quizgame)
