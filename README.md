@@ -13,7 +13,7 @@ These are some projects I'm working on (currently or recently):
 
 
 These are some talks / slideshows / educational materials that I created:  
-- [Fixed and random effects models in meta-analysis]([https://jmoggridge.github.io/](https://jmoggridge.github.io/fixed-and-random-effects)
+- [Fixed and random effects models in meta-analysis](https://jmoggridge.github.io/fixed-and-random-effects)
 - [Leading and lagging variables demo](https://jmoggridge.github.io/leader-or-lagger)
 
 
