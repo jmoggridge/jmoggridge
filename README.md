@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Jason A. Moggridge
 
 
-I'm a programmer and data analyst mostly working on biomedical research.
+I'm a programmer and data analyst working on biomedical research, mostly.
 Find my [homepage / blog here](https://jmoggridge.com) or my (probably very outdated) [CV here](https://jmoggridge.github.io).
 
 
