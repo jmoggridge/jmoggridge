@@ -7,9 +7,9 @@ Find my personal [homepage / blog here](https://jmoggridge.com) or my (probably 
 
 
 These are some projects I'm working on (currently or recently):  
-- 🦠 [CUBE: Coronavirus in the Urban Built Environment](https://cube-ontario.github.io/)
-- ✅ [jrnowl: helps you prepare medical research manuscripts for publication](https://jrnowl.com)
-- 💊 [GLP1-rx.com](GLP1-rx.com) and [SGLT2rx.com](SGLT2rx.com) inform patients and providers about the benefits of novel diabetes drugs.
+- 🦠 [CUBE](https://cube-ontario.github.io/): Coronavirus in the Urban Built Environment 🦠
+- 🦉 [jrnowl](https://jrnowl.com): helps you prepare medical research manuscripts for publication 🦉
+- 💊 [GLP1-rx.com](GLP1-rx.com) and [SGLT2rx.com](SGLT2rx.com) inform patients and providers about the benefits of novel diabetes drugs 💊
 
 
 These are some talks / slideshows / educational materials that I created:  
