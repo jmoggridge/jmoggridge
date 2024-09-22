@@ -1,5 +1,6 @@
 ### Hi 👋 I'm Jason A. Moggridge
 
+*2024-09-22: I am currently looking for the next step in my career. If you would like me to be part of your team, please reach out to me at ja.moggridge@gmail.com. Cheers!*
 
 I'm a programmer and data analyst working on biomedical research with the [Fralick lab](https://fralicklab.com/).  
 
