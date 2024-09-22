@@ -4,7 +4,7 @@
 
 I'm a programmer and data analyst working on biomedical research with the [Fralick lab](https://fralicklab.com/).  
 
-Find my personal [homepage / blog here](https://jmoggridge.com) or my (probably very outdated) [CV here](https://jmoggridge.github.io).
+Find my personal [homepage / blog here](https://jmoggridge.com) and my [CV here](https://jmoggridge.github.io).
 
 
 These are some projects I'm working on (currently or recently):  
